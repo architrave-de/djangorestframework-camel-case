@@ -9,8 +9,8 @@ from rest_framework.exceptions import ParseError
 from rest_framework.parsers import MultiPartParser, DataAndFiles
 from rest_framework.parsers import FormParser
 
-from djangorestframework_camel_case.settings import api_settings
-from djangorestframework_camel_case.util import underscoreize
+from .settings import api_settings
+from .util import underscoreize
 
 
 class CamelCaseJSONParser(api_settings.PARSER_CLASS):

@@ -10,4 +10,5 @@ Development Lead
 Contributors
 ------------
 
-None yet. Why not be the first?
+* Jeremy Mayeres <jeremy@jerr.dev>
+* Max Patzelt <max.patzelt@gmail.com>
